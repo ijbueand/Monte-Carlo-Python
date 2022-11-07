@@ -1,6 +1,5 @@
 # MÉTODOS DE MONTECARLO PARA EL CÁLCULO DEL ÁREA DE POLÍGONOS IRREGULARES
 # Bueno Andrades, Isaías Jesús
-# Camacho Vázquez, Jaime
 
 # Importamos las librerías que necesitemos y definimos las funciones que vamos a usar
 import random
